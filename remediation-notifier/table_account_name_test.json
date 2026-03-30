@@ -1,0 +1,7 @@
+[
+    {
+      "key_contact": "owner.team@example.com",
+      "account_name": "project-alpha",
+      "webhook": "https://company.webhook.office.com/webhookb2/..."
+    }
+]
